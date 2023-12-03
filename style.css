@@ -5,6 +5,13 @@ body{
     line-height: 1.6;
     font-family: Arial, Helvetica, sans-serif;
   }
+
+a{
+
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
   
   #wrapper{
     position: relative;
